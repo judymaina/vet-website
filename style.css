@@ -550,6 +550,7 @@ background-color: #FDF7EF;
     }
     .footer-content div{
     margin: 66px;
+    height: 10px;
     }
     .footer-content ul li{
         list-style: none;
